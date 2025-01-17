@@ -47,7 +47,7 @@ http://www.instagram.com
 ```
 
 ### 9. Resultado
-
+![imagem do resultado](https://github.com/VictorCallegari/cibersecurity-desafio-phishing/blob/main/result.jpeg)
 
 ## Aviso Importante
 Este material é fornecido apenas para **fins educacionais** e de **conscientização sobre segurança**. Qualquer uso inadequado ou mal-intencionado é estritamente proibido e pode violar leis locais e internacionais.
